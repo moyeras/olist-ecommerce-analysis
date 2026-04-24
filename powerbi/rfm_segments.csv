@@ -1,0 +1,9 @@
+segment,customer_count,avg_recency_days,avg_frequency,avg_monetary
+Lost,22538,111.0,1.0,62.77
+Loyal,17266,334.0,1.04,258.05
+Recent Customer,12042,449.0,1.0,64.16
+Cannot Lose Them,11989,57.0,1.08,270.92
+At Risk,11838,164.0,1.07,260.08
+Potential Loyalist,11785,275.0,1.0,64.84
+Champion,5585,451.0,1.11,294.62
+Hibernating,314,121.0,1.0,138.03
